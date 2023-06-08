@@ -4,7 +4,7 @@ import myPhoto from "./profile.jpg";
 const AboutMe = () => {
   return (
     <section className="bg-[#f5f5f5] text-black py-10 h-[750px] flex items-center border border-y">
-      <div className="max-h-full max-w-7xl mx-auto flex items-center">
+      <div className="max-h-full max-w-6xl mx-auto flex items-center">
         <div className="flex justify-between items-center w-full mx-auto text-center flex-col-reverse sm:flex-row sm:text-start">
           <div className="max-w-full px-4 sm:w-1/2 sm:px-8">
             <p className="text-xs leading-4 tracking-widest">
