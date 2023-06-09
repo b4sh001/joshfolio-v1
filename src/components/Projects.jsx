@@ -43,7 +43,7 @@ function Projects() {
 
   return (
     <section className="bg-[#f5f5f5] text-black p-6 lg:py-[100px] lg:px-[160px]">
-      <div className="flex flex-col  justify-center max-w-7xl mx-auto sm:flex-row ">
+      <div className="flex flex-col justify-center max-w-7xl mx-auto sm:flex-row">
         <div className="section_title">Projects</div>
         <div className="section_content">
           <ProjectContentContainer />
