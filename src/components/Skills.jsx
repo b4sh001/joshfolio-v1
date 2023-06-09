@@ -12,6 +12,7 @@ function Skills() {
               <li>HTML</li>
               <li>CSS</li>
               <li>Javascript(ES6)</li>
+              <li>PHP</li>
               <li>Liquid</li>
             </ul>
           </div>
@@ -22,6 +23,7 @@ function Skills() {
               <li>Vite</li>
               <li>Tailwind</li>
               <li>Alpine</li>
+              <li>Node</li>
             </ul>
           </div>
           <div className="mb-6">
@@ -30,7 +32,7 @@ function Skills() {
               <li>Chrome DevTools</li>
               <li>Git &amp; GitHub</li>
               <li>VS Code</li>
-              <li>Postman</li>
+              <li>MongoDB</li>
             </ul>
           </div>
         </div>
