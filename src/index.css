@@ -6,5 +6,5 @@
   @apply w-full max-w-[650px] text-base font-light;
 }
 .section_title {
-  @apply shrink-0 w-[200px] mr-[50px] uppercase text-cyan-500 font-semibold text-start sm:text-end lg:mr-[70px];
+  @apply shrink-0 w-[200px] mr-[50px] mb-4 uppercase text-cyan-500 font-semibold text-start sm:text-end lg:mr-[70px];
 }

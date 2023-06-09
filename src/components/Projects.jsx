@@ -27,11 +27,13 @@ function Projects() {
           </p>
         </div>
         <div className="flex items-center space-x-4">
-          <div className="text-sm border border-cyan-600 solid px-2">HMTL</div>
-          <div className="text-sm border border-cyan-600 solid px-2">
+          <div className="text-sm border font-medium border-cyan-600 solid px-2">
+            HMTL
+          </div>
+          <div className="text-sm border font-medium border-cyan-600 solid px-2">
             TailwindCSS
           </div>
-          <div className="text-sm border border-cyan-600 solid px-2">
+          <div className="text-sm border font-medium  border-cyan-600 solid px-2">
             JavaScript
           </div>
         </div>
@@ -41,7 +43,7 @@ function Projects() {
 
   return (
     <section className="bg-[#f5f5f5] text-black p-6 lg:py-[100px] lg:px-[160px]">
-      <div className="flex justify-center max-w-7xl mx-auto  ">
+      <div className="flex flex-col  justify-center max-w-7xl mx-auto sm:flex-row ">
         <div className="section_title">Projects</div>
         <div className="section_content">
           <ProjectContentContainer />
